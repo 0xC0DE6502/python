@@ -3,6 +3,8 @@
 # one time calculation of (stepx, stepy) needed to advance the bullet to the (old) location of the player
 # written with a translation to 6502 asm code in mind
 
+# PLEASE NOTE: I have since created a more accurate version in BBC BASIC. Consider this to be obsolete!!
+
 import math
 
 # example player and enemy coordinates (inverted y-axis!)
